@@ -5,7 +5,7 @@ com esse projeto eu quero passar uma imagem diferente sobre os projetos do agrin
 # modo de jogar
 você começa no canto inferior esquerdo, você tem que mover o mouse para mover o seu pesoagem para as antenas, onde voce irá conseguir instalar a internet a casa dos clientes, após instalar todas as antenas serem instaldas, você ganhara o jogo, assim podendo reiniciar o jogo e jogar novamente.
 
-# prompts (prompts que descrevem os erros e acertos qua a ia teve)
+# prompts IA(prompts que descrevem os erros e acertos qua a ia teve)
 Perfeito! Aqui estão somente os prompts diretamente relacionados à **criação do projeto no p5.js**, sem incluir os de descrição, relatório ou organização do texto:
 
 observe a imagem, eu quero que você faça um código para o p5.js onde ele adicione essa imagem, adicione o emoji que está destacado, e faça que o emoji ande somente na cor #9b4a4a com as teclas WASD, sendo W para cima, A para esquerda, S para baixo e D para a direita.
